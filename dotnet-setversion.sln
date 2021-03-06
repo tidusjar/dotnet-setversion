@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26228.9
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FE23C2A7-75C4-4071-B555-0AEB678A9770}"
 	ProjectSection(SolutionItems) = preProject
@@ -14,9 +14,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3E276529-659
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{2DC259B3-4ADB-4566-B424-2148BDF5B507}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet-setversion", "src\dotnet-setversion\dotnet-setversion.csproj", "{4CEC4F68-49E1-4B0A-B154-722B1C96E829}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet-set-semver-version", "src\dotnet-setversion\dotnet-set-semver-version.csproj", "{4CEC4F68-49E1-4B0A-B154-722B1C96E829}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "integration", "test\integration\integration.csproj", "{FEE152BC-1F28-4BAE-98F1-E838622FF6CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "integration", "test\integration\integration.csproj", "{FEE152BC-1F28-4BAE-98F1-E838622FF6CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

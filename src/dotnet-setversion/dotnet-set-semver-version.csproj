@@ -12,7 +12,8 @@
     <Authors>TidusJar</Authors>
     <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/tidusjar/dotnet-setversion</PackageProjectUrl>
-    <RepositoryUrl>git@github.com:tidusjar/dotnet-setversion.git</RepositoryUrl>
+    <RepositoryUrl>git@github.com:tidusjar/dotnet-set-semver-version.git</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="CommandLineParser" Version="2.2.1" />
